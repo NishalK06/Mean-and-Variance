@@ -52,7 +52,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 
-# Output : 
+# Output :
+![image](https://github.com/NishalK06/Mean-and-Variance/assets/155972324/8c52b928-6d34-451c-a615-fcba8bce9b83)
+
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
